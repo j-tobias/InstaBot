@@ -71,6 +71,10 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Folders
+Research/different_libaries/hotelbotaniste
+
+
 # PyBuilder
 target/
 
